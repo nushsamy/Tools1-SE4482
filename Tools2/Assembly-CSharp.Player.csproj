@@ -57,8 +57,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\EditorScripts\LanguageEditorWindow.cs" />
+    <Compile Include="Assets\Scripts\CustomDictionary.cs" />
+    <Compile Include="Assets\Scripts\DictionaryDrawer.cs" />
+    <Compile Include="Assets\Scripts\EditKeys.cs" />
+    <Compile Include="Assets\Scripts\Key.cs" />
     <Compile Include="Assets\Scripts\Language.cs" />
     <Compile Include="Assets\Scripts\LanguageData.cs" />
+    <Compile Include="Assets\Scripts\SerializableDictionary.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

@@ -13,3 +13,27 @@ MonoBehaviour:
   m_Name: English
   m_EditorClassIdentifier: 
   languageName: English
+  keyvalues:
+    _Buckets: ffffffffffffffff0000000001000000ffffffff0300000002000000
+    _HashCodes: 2af87b6c24d0d113e566f36c58009c58000000000000000000000000
+    _Next: ffffffffffffffffffffffffffffffff000000000000000000000000
+    _Count: 4
+    _Version: 11
+    _FreeList: -1
+    _FreeCount: 0
+    _Keys:
+    - hello
+    - PLay
+    - SAVE
+    - RETURN
+    - 
+    - 
+    - 
+    _Values:
+    - bye
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
